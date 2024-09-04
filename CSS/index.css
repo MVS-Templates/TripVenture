@@ -1,7 +1,7 @@
 @import url('./main.css');
 
 .hero-bg {
-    background-image: radial-gradient(#0000005d, #000000e7), url('../RESOURCES/Images/hero-section.jpg');
+    background-image: radial-gradient(#0000005d, #000000e7), url('../RESOURCES/Images/trip\ web\ front\ pic.svg');
     background-position: center;
     background-size: cover;
     height: 100vh;
